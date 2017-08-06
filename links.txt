@@ -1,0 +1,26 @@
+
+
+https://tour.golang.org/concurrency/6 Tutorial html with running examples
+
+https://gobyexample.com/select Just examples but running
+
+https://gobyexample.com/channel-directions
+
+youtube https://www.youtube.com/watch?v=f6kdp27TYZs  Google I/O 2012 - Go Concurrency Patterns by   Rob Pike   Google Developers
+
+ppt https://talks.golang.org/2012/concurrency.slide#12 Slides of video above
+
+https://www.youtube.com/watch?v=CF9S4QZuV30&t=110s    Go Programming by Derek Banas
+
+
+github
+https://guides.github.com/activities/hello-world/  Tutorial para servidor apenas
+
+
+Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+
+2 usuários:
+GITHUB PULL REQUEST, Branching, Merging & Team Workflow
+https://www.youtube.com/watch?v=0fKg7e37bQE&t=945s
